@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBash", "ColorBash\ColorBash\ColorBash.csproj", "{563D30A4-2A69-42EC-B29B-0672623C94CB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ColorBashContent", "ColorBash\ColorBashContent\ColorBashContent.contentproj", "{BCF4F7AC-500A-44BA-B0B8-28098B2C6887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{563D30A4-2A69-42EC-B29B-0672623C94CB}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{BCF4F7AC-500A-44BA-B0B8-28098B2C6887}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{BCF4F7AC-500A-44BA-B0B8-28098B2C6887}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
